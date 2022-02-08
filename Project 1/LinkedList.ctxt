@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinkedList()
+comment1.params=data\ index
+comment1.target=void\ insert(int,\ int)
+comment2.params=index
+comment2.target=void\ remove(int)
+comment3.params=index
+comment3.target=LinkedList.Node\ getNode(int)
+comment4.params=index
+comment4.target=int\ get(int)
+comment5.params=
+comment5.target=int\ size()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

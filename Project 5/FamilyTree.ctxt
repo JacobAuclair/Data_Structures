@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=javax.swing.JPanel\ getView()
+comment1.params=x
+comment1.target=boolean\ root(java.lang.String)
+comment2.params=p\ x
+comment2.target=boolean\ addLeft(java.lang.String,\ java.lang.String)
+comment3.params=p\ x
+comment3.target=boolean\ addRight(java.lang.String,\ java.lang.String)
+comment4.params=p
+comment4.target=FamilyTree.Node\ locate(java.lang.String)
+comment5.params=p\ famTree
+comment5.target=FamilyTree.Node\ locate(java.lang.String,\ FamilyTree.Node)
+numComments=6

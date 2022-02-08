@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=RedBlue\ redpoint
+comment1.target=double[]\ redpop(double[],\ int)
+comment2.params=RedBlue\ bluepoint
+comment2.target=double[]\ bluepop(double[],\ int)
+comment3.params=RedBlue\ redpoint\ temp
+comment3.target=double[]\ redadd(double[],\ int,\ int)
+comment4.params=RedBlue\ bluepoint\ temp
+comment4.target=double[]\ blueadd(double[],\ int,\ int)
+numComments=5
